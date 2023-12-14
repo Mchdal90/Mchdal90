@@ -3,7 +3,7 @@
 <h2>👨‍💻 Please Have a look at my Projets!!!:</h2>
 
 - <b>Creating a Password Generator with Python </b>
-  - [Python]((https://github.com/Mchdal90/PythonPasswordGenerator.git))
+  - <b> https://github.com/Mchdal90/PythonPasswordGenerator.git<b>
 
 - <b>Azure Cloud Project</b>
 - <b>Python Project</b>
