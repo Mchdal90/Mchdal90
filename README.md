@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Please Have a look at my Projets!!!:</h2>
 
-- <b>Creating a SIEM with Azure Sentinel f</b>
+- <b>Creating a Password Generator with Python f</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Azure Cloud Project</b>
