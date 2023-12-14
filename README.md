@@ -22,19 +22,6 @@
 
 
 
+- 🔭 I’m currently working on ... Automating tasks with Python
+- 🌱 I’m currently studying ... Azure fundamentals
 
-<h2> 🤳 Connect with me:</h2>
-
-
-
-[youtube]: https://
-[linkedin]: https://www.linkedin.com/in/david-vinson-8a8a84b9)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
--->
