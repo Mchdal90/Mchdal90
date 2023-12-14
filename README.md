@@ -5,20 +5,16 @@
 - <b>Creating a Password Generator with Python </b>
   - <b> https://github.com/Mchdal90/PythonPasswordGenerator.git<b>
 
+- <b>Python Password manager</b>
+  
+
 - <b>Azure Cloud Project</b>
-- <b>Python Project</b>
-
-
+- <b>Coming Soon!!!!!
+  
 
 - <b>Certifications</b>
   - Comptia Sec+
   - Google Cyber Secuirty certificate
- 
-- <b>Course work from Google cyber security certificaten</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-
-
 
 
 
