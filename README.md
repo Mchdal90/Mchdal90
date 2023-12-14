@@ -8,9 +8,8 @@
 - <b>Python Password manager</b>
   
 
-- <b>Azure Cloud Project</b>
-- <b>Coming Soon!!!!!
-  
+- <b>Azure Cloud Project Coming Soon!!!!!</b>
+    
 
 - <b>Certifications</b>
   - Comptia Sec+
